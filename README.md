@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Richard Hoppes (he/him).
-- 😀 I enjoy movies (especially horror), video games, mechanical keyboards
-- 🐣 I was born and raised in Las Vegas, NV.
-- 📍 I am currently living in Seattle (since 2014).
+- 👋 Hi there! I'm Richard "Rich" Hoppes (he/him).
+- 😀 Some things I enjoy are movies (especially horror), collecting watches and playing games (video/board/mtg/tabletop).
+- 🐣 Born and raised in Las Vegas, NV.
+- 📍 Moved to Seattle in October, 2014.
